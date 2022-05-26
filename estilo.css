@@ -16,6 +16,12 @@ p.uno {
 p.dos {
     color: white;
     text-align: right;
-    font-size: 95%;
+    font-size: 130%;
     
+}
+
+p.tres{
+    text-align:center;  
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
 }
